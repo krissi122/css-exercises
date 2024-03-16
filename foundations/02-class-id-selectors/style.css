@@ -1,0 +1,23 @@
+.p-backgrounds {
+    background-color: lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#numero-dos {
+    color: blue;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+#tres {
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#quatro {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
